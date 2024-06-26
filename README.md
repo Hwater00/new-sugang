@@ -31,11 +31,15 @@
 
 특정 과목을 교환할 과목으로 신청합니다.
 [POST] /exchanges
+
 교환 게시판에 있는 과목을 조회합니다.
 [GET]  /exchanges
+
 교환 게시판에 있는 과목 중 특정 과목에 교환 신청을 진행합니다.
 [POST] /exchanges/request/
+
 교환 신청 받은 과목을 조회합니다.
 [GET] ]/exchanges/request/
+
 교환 신청 받은 과목에 대해 승인 신청을 합니다.
 [POST] ]/exchanges/request/status
