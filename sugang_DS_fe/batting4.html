@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=initial-scale=1.0">
+    <title>마일리지 입력창</title>
+    <script lang="javascript">
+        function moveClose(){
+            opener.location.href="sugang_tab2____________.html";
+            alert("마일리지가 차감되었습니다.");
+            self.close();
+        }
+        
+    </script>
+    <style>
+        div{
+            text-align: center;
+        }
+        h1{
+            font-size: xx-large;
+            text-align: center;
+            padding: 50px;
+        }
+        input.submit{
+            border: 1px solid black;
+            width: 150px;
+            height: 75px;
+            font-size: xx-large;
+            background-color: #971b44;
+            color: white;
+        }
+        input#money{
+            width: 350px;
+            height: 75px;
+            text-align: center;
+            font-size: xx-large;
+        }
+    </style>
+</head>
+<body>
+    <h1>마일리지를 얼마나 넣을까요?</h1>
+    <div>
+        <input name="amount" id="money" type="number" min="0" step="1" value="16">
+        <input type="submit" class="submit" value="신청하기" onclick="moveClose();">
+    </div>
+</body>
+</html>
