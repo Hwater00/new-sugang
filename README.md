@@ -1,12 +1,14 @@
 # new-sugang
 2022년 덕성여대 제1회 IT 연합 해커톤 넘버원삼김 : 새로운 수강신청 방식을 제안하다. 
 
-- 팀원소개
+### 팀원소개 ###
 
 |김혜수|김시연|원종은|
 |---|---|---|
 |[Hwater00](https://github.com/Hwater00)|[siyeon9302](https://github.com/siyeon9302)|[jongeun2](https://github.com/jongeun2)
 |프론트, 백엔드|디자인|프론트|
+
+### 프로젝트 설명 ###
 
 ### API 명세서 ###
 로그인 
