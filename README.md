@@ -5,8 +5,9 @@
 
 |김혜수|김시연|원종은|
 |---|---|---|
-|[Hwater00](https://github.com/Hwater00)|[siyeon9302](https://github.com/siyeon9302|[jongeun2](https://github.com/jongeun2)
-
+|[Hwater00](https://github.com/Hwater00)|[siyeon9302](https://github.com/siyeon9302)|[jongeun2](https://github.com/jongeun2)
+|---|---|---|
+|프론트, 백엔드|디자인|프론트|
 
 ### API 명세서 ###
 로그인 
